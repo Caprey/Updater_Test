@@ -2,7 +2,7 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "1.0",
+      "latest-version": "2.0",
       "download-url": "https://raw.githubusercontent.com/Caprey/Updater_Test/master/download/Updater_Test.exe",
       "changelog": "This is an example changelog for Windows. Go on...",
       "mandatory": true
